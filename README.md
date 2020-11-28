@@ -14,6 +14,7 @@ out my [personal website](https://yorickpeterse.com).
 * [wepoll-sys](https://gitlab.com/yorickpeterse/wepoll-sys) /
   [wepoll-binding](https://gitlab.com/yorickpeterse/wepoll-binding):
   Rust bindings to wepoll
+* [libffi-rs](https://github.com/tov/libffi-rs): Rust bindings to libffi
 
 ## Past projects
 
